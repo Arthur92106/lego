@@ -2,7 +2,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 'use strict';
 
-console.log('🚀 This is the last test.');
+console.log('🚀 Hello.');
 
 const MY_FAVORITE_DEALERS = [
   {
@@ -15,9 +15,17 @@ const MY_FAVORITE_DEALERS = [
   }
 ];
 
+
+const THE_BEST_OFFERT = [
+  {
+    'name': 'Meilleur Reduction',
+    'url': 'https://www.dealabs.com/bons-plans/selection-de-lego-en-promotion-ex-lego-technic-42174-yacht-emirates-team-new-zealand-ac75-ou-lego-ideas-21343-le-village-viking-a-9499-3231812'
+  }
+];
+
 console.table(MY_FAVORITE_DEALERS);
 console.log(MY_FAVORITE_DEALERS[0]);
-
+console.log(THE_BEST_OFFERT[0]);
 /**
  * 🌱
  * Let's go with a very very simple first todo
