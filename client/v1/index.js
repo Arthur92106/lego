@@ -2,7 +2,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 'use strict';
 
-console.log('🚀 This is it.');
+console.log('🚀 This is not it.');
 
 const MY_FAVORITE_DEALERS = [
   {
@@ -21,7 +21,7 @@ console.log(MY_FAVORITE_DEALERS[0]);
 /**
  * 🌱
  * Let's go with a very very simple first todo
- * Keep pushing
+ * Keep pushing3
  * 🌱
  */
 
