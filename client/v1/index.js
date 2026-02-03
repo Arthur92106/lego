@@ -2,7 +2,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 'use strict';
 
-console.log('🚀 This is not not it.');
+console.log('🚀 This is a test for it.');
 
 const MY_FAVORITE_DEALERS = [
   {
